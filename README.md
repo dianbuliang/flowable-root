@@ -10,7 +10,7 @@ Flowable (V6)
 
 ![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/0.png)
 
-![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/熊猫.png)
+![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/熊猫.jpg)
 
 ### 环境
 
