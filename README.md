@@ -61,5 +61,9 @@ After you've done that you can post questions and comments on https://forum.flow
 
 ### 如何跑起来
 
-​	**TO BE CONTINUE.........**
+​	**下载代码，目录如下：**
+
+​	![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/1558428446.png)![Image text]：
+
+ 
 
