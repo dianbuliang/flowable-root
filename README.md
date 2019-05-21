@@ -48,3 +48,18 @@ Contributing to Flowable: https://github.com/flowable/flowable-engine/wiki.
 Every self-respecting developer should have read this link on how to ask smart questions: http://www.catb.org/~esr/faqs/smart-questions.html.
 
 After you've done that you can post questions and comments on https://forum.flowable.org and create issues in https://github.com/flowable/flowable-engine/issues.
+
+
+
+
+
+# ------------以上为flowable官方仓库所著---------------
+
+### 环境
+
+​	**IntelliJ IDEA + MAVEN3.6 + JDK1.8(官方也用这个)**
+
+### 如何跑起来
+
+​	**TO BE CONTINUE.........**
+
