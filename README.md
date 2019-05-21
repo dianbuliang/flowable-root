@@ -55,6 +55,8 @@ After you've done that you can post questions and comments on https://forum.flow
 
 # ------------以上为flowable官方仓库所著---------------
 
+![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/15.png)
+
 ### 环境
 
 ​	**IntelliJ IDEA + MAVEN3.6 + JDK1.8(官方也用这个)**
@@ -63,7 +65,7 @@ After you've done that you can post questions and comments on https://forum.flow
 
 ​	**下载代码，目录如下：**
 
-​	![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/1558428446.png)![Image text]：
+​	![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/1558428446.png)
 
  
 
