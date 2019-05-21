@@ -28,13 +28,23 @@ Flowable (V6)
 
 ***将所有pom文件导入MAVEN，有的文件夹下面有多个pom 如（图3）：**
 
-(https://github.com/dianbuliang/flowable-root/raw/master/zimages/3.png)
+![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/3.png)
 
 ​	**所以切记仔细，把所有的都导入，全部导入后图2中区域2应有 156 个文件（好像还有一个文件夹）**
 
+------
+
+
+
 #### 	尝试启动
 
-​		
+​	**1.先启动flowable-idm模块(看图4)**
+
+​		![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/4.png)
+
+​			**没错，用springboot的启动类启动。运行启动类后会发现少了很多jar包（图5）**
+
+​		**TO BE CONTINUE......**
 
 
 
