@@ -27,6 +27,7 @@
 		<slf4j.version>1.7.26</slf4j.version>
 		<!--所用springboot版本-->
 		<spring.boot.version>2.1.4.RELEASE</spring.boot.version>
+		<!--<spring.boot.version>2.0.1.RELEASE</spring.boot.version>-->
 
 		<junit.version>4.12</junit.version>
 		<junit.jupiter.version>5.3.2</junit.jupiter.version>

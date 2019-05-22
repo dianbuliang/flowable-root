@@ -44,17 +44,23 @@ Flowable (V6)
 
 ​		![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/4.png)
 
-​			**没错，用springboot的启动类启动。运行启动类后会发现少了很多jar包（图5）**
+​			**没错，用springboot的启动类启动。运行启动类后会发现少了很多jar包**
 
-​		**TO BE CONTINUE......**
+​			![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/8.png)
 
+​			**解决方法如下：**
 
+​			![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/9.png)
 
+​				**成功后再此运行启动类**
 
+​			![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/10.png)
 
+**发现启动成功，端口8080，全局路径：flowable-idm。我们来访问：127.0.0.1:8080/flowable-idm  页面如下：**
 
+​		![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/11.png)
 
-
+**至此启动成功，别的模块都i差不多~~**
 
 
 
