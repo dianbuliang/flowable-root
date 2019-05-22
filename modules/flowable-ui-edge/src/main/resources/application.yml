@@ -11,7 +11,8 @@ spring:
     multipart:
       max-file-size: 104MB
       max-request-size: 104MB
-
+#  main:
+#    allow-bean-definition-overriding: true
 management:
   endpoints:
     web:

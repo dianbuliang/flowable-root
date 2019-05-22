@@ -89,6 +89,7 @@ public class FlowableFormService {
         String formKey = saveRepresentation.getFormRepresentation().getKey();
         ModelKeyRepresentation modelKeyInfo = modelService.validateModelKey(model, model.getModelType(), formKey);
         if (modelKeyInfo.isKeyAlreadyExists()) {
+            //这个key已经被用了
             throw new BadRequestException("Model with provided key already exists " + formKey);
         }
 
