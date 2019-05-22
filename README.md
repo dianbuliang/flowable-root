@@ -50,5 +50,39 @@ Flowable (V6)
 
 
 
+
+
+
+
+
+
+
+
+### 更换数据库
+
+​	**源码默认使用的是H2数据库，我要换成MySQL数据可（换成别的也类似）**
+
+​	**以flowable-idm模块为例：**
+
+​	**（图5）**
+
+​	![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/5.png)
+
+​	**（图6）**
+
+![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/6.png)
+
+**图5、图6将MySQL连接的依赖引入，不做这些会报mysql驱动用不了的异常**
+
+**更改配置文件（图7）**
+
+![Image text](https://github.com/dianbuliang/flowable-root/raw/master/zimages/7.png)
+
+**好啦，配完了，可以启动了。**
+
+
+
+
+
  
 
